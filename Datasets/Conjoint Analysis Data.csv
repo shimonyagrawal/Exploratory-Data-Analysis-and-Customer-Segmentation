@@ -1,0 +1,385 @@
+bundleID,soupbase,maindishI,maindishII,dipping,snack,avg_rating
+1,Tomato Soup Base,Tofu Pudding,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,5.47
+2,Tomato Soup Base,Tofu Pudding,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,7.88
+3,Tomato Soup Base,Tofu Pudding,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,6.2
+4,Tomato Soup Base,Tofu Pudding,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,8.0
+5,Tomato Soup Base,Tofu Pudding,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,8.24
+6,Tomato Soup Base,Tofu Pudding,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,9.06
+7,Tomato Soup Base,Tofu Pudding,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,9.17
+8,Tomato Soup Base,Tofu Pudding,Crab Sticks,Fragrant,Dough Stick With Fennel,5.71
+9,Tomato Soup Base,Tofu Pudding,Crab Sticks,Spicy,Deep-Fried Crispy Pork,5.09
+10,Tomato Soup Base,Tofu Pudding,Crab Sticks,Spicy,Dough Stick With Fennel,6.89
+11,Tomato Soup Base,Tofu Pudding,Crab Sticks,Seafood,Deep-Fried Crispy Pork,6.83
+12,Tomato Soup Base,Tofu Pudding,Crab Sticks,Seafood,Dough Stick With Fennel,4.6
+13,Tomato Soup Base,Tofu Pudding,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,6.7
+14,Tomato Soup Base,Tofu Pudding,Lobster Tails,Fragrant,Dough Stick With Fennel,4.82
+15,Tomato Soup Base,Tofu Pudding,Lobster Tails,Spicy,Deep-Fried Crispy Pork,4.78
+16,Tomato Soup Base,Tofu Pudding,Lobster Tails,Spicy,Dough Stick With Fennel,9.49
+17,Tomato Soup Base,Tofu Pudding,Lobster Tails,Seafood,Deep-Fried Crispy Pork,4.8
+18,Tomato Soup Base,Tofu Pudding,Lobster Tails,Seafood,Dough Stick With Fennel,3.59
+19,Tomato Soup Base,Tofu Pudding,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,7.85
+20,Tomato Soup Base,Tofu Pudding,Fish Cakes,Fragrant,Dough Stick With Fennel,6.09
+21,Tomato Soup Base,Tofu Pudding,Fish Cakes,Spicy,Deep-Fried Crispy Pork,8.08
+22,Tomato Soup Base,Tofu Pudding,Fish Cakes,Spicy,Dough Stick With Fennel,6.79
+23,Tomato Soup Base,Tofu Pudding,Fish Cakes,Seafood,Deep-Fried Crispy Pork,6.61
+24,Tomato Soup Base,Tofu Pudding,Fish Cakes,Seafood,Dough Stick With Fennel,5.61
+25,Tomato Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,5.89
+26,Tomato Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,6.88
+27,Tomato Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,8.26
+28,Tomato Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,8.69
+29,Tomato Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,6.77
+30,Tomato Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,7.86
+31,Tomato Soup Base,Spicy Marinated Beef,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,8.09
+32,Tomato Soup Base,Spicy Marinated Beef,Crab Sticks,Fragrant,Dough Stick With Fennel,7.17
+33,Tomato Soup Base,Spicy Marinated Beef,Crab Sticks,Spicy,Deep-Fried Crispy Pork,9.52
+34,Tomato Soup Base,Spicy Marinated Beef,Crab Sticks,Spicy,Dough Stick With Fennel,9.14
+35,Tomato Soup Base,Spicy Marinated Beef,Crab Sticks,Seafood,Deep-Fried Crispy Pork,6.45
+36,Tomato Soup Base,Spicy Marinated Beef,Crab Sticks,Seafood,Dough Stick With Fennel,7.73
+37,Tomato Soup Base,Spicy Marinated Beef,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,5.45
+38,Tomato Soup Base,Spicy Marinated Beef,Lobster Tails,Fragrant,Dough Stick With Fennel,6.92
+39,Tomato Soup Base,Spicy Marinated Beef,Lobster Tails,Spicy,Deep-Fried Crispy Pork,5.94
+40,Tomato Soup Base,Spicy Marinated Beef,Lobster Tails,Spicy,Dough Stick With Fennel,4.9
+41,Tomato Soup Base,Spicy Marinated Beef,Lobster Tails,Seafood,Deep-Fried Crispy Pork,9.93
+42,Tomato Soup Base,Spicy Marinated Beef,Lobster Tails,Seafood,Dough Stick With Fennel,5.21
+43,Tomato Soup Base,Spicy Marinated Beef,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,9.32
+44,Tomato Soup Base,Spicy Marinated Beef,Fish Cakes,Fragrant,Dough Stick With Fennel,9.41
+45,Tomato Soup Base,Spicy Marinated Beef,Fish Cakes,Spicy,Deep-Fried Crispy Pork,8.79
+46,Tomato Soup Base,Spicy Marinated Beef,Fish Cakes,Spicy,Dough Stick With Fennel,7.98
+47,Tomato Soup Base,Spicy Marinated Beef,Fish Cakes,Seafood,Deep-Fried Crispy Pork,6.19
+48,Tomato Soup Base,Spicy Marinated Beef,Fish Cakes,Seafood,Dough Stick With Fennel,9.97
+49,Tomato Soup Base,Beef Tripe,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,8.47
+50,Tomato Soup Base,Beef Tripe,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,7.84
+51,Tomato Soup Base,Beef Tripe,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,8.32
+52,Tomato Soup Base,Beef Tripe,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,5.23
+53,Tomato Soup Base,Beef Tripe,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,3.91
+54,Tomato Soup Base,Beef Tripe,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,5.49
+55,Tomato Soup Base,Beef Tripe,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,8.45
+56,Tomato Soup Base,Beef Tripe,Crab Sticks,Fragrant,Dough Stick With Fennel,6.44
+57,Tomato Soup Base,Beef Tripe,Crab Sticks,Spicy,Deep-Fried Crispy Pork,8.97
+58,Tomato Soup Base,Beef Tripe,Crab Sticks,Spicy,Dough Stick With Fennel,5.77
+59,Tomato Soup Base,Beef Tripe,Crab Sticks,Seafood,Deep-Fried Crispy Pork,3.52
+60,Tomato Soup Base,Beef Tripe,Crab Sticks,Seafood,Dough Stick With Fennel,6.25
+61,Tomato Soup Base,Beef Tripe,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,6.33
+62,Tomato Soup Base,Beef Tripe,Lobster Tails,Fragrant,Dough Stick With Fennel,5.96
+63,Tomato Soup Base,Beef Tripe,Lobster Tails,Spicy,Deep-Fried Crispy Pork,4.93
+64,Tomato Soup Base,Beef Tripe,Lobster Tails,Spicy,Dough Stick With Fennel,8.63
+65,Tomato Soup Base,Beef Tripe,Lobster Tails,Seafood,Deep-Fried Crispy Pork,1.69
+66,Tomato Soup Base,Beef Tripe,Lobster Tails,Seafood,Dough Stick With Fennel,6.17
+67,Tomato Soup Base,Beef Tripe,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,5.8
+68,Tomato Soup Base,Beef Tripe,Fish Cakes,Fragrant,Dough Stick With Fennel,4.43
+69,Tomato Soup Base,Beef Tripe,Fish Cakes,Spicy,Deep-Fried Crispy Pork,5.84
+70,Tomato Soup Base,Beef Tripe,Fish Cakes,Spicy,Dough Stick With Fennel,5.14
+71,Tomato Soup Base,Beef Tripe,Fish Cakes,Seafood,Deep-Fried Crispy Pork,5.12
+72,Tomato Soup Base,Beef Tripe,Fish Cakes,Seafood,Dough Stick With Fennel,4.38
+73,Tomato Soup Base,Special Mutton,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,9.21
+74,Tomato Soup Base,Special Mutton,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,7.29
+75,Tomato Soup Base,Special Mutton,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,8.99
+76,Tomato Soup Base,Special Mutton,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,9.93
+77,Tomato Soup Base,Special Mutton,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,2.63
+78,Tomato Soup Base,Special Mutton,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,7.07
+79,Tomato Soup Base,Special Mutton,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,6.73
+80,Tomato Soup Base,Special Mutton,Crab Sticks,Fragrant,Dough Stick With Fennel,7.15
+81,Tomato Soup Base,Special Mutton,Crab Sticks,Spicy,Deep-Fried Crispy Pork,6.54
+82,Tomato Soup Base,Special Mutton,Crab Sticks,Spicy,Dough Stick With Fennel,9.14
+83,Tomato Soup Base,Special Mutton,Crab Sticks,Seafood,Deep-Fried Crispy Pork,6.69
+84,Tomato Soup Base,Special Mutton,Crab Sticks,Seafood,Dough Stick With Fennel,5.12
+85,Tomato Soup Base,Special Mutton,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,5.25
+86,Tomato Soup Base,Special Mutton,Lobster Tails,Fragrant,Dough Stick With Fennel,5.57
+87,Tomato Soup Base,Special Mutton,Lobster Tails,Spicy,Deep-Fried Crispy Pork,8.84
+88,Tomato Soup Base,Special Mutton,Lobster Tails,Spicy,Dough Stick With Fennel,8.49
+89,Tomato Soup Base,Special Mutton,Lobster Tails,Seafood,Deep-Fried Crispy Pork,7.26
+90,Tomato Soup Base,Special Mutton,Lobster Tails,Seafood,Dough Stick With Fennel,8.65
+91,Tomato Soup Base,Special Mutton,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,5.89
+92,Tomato Soup Base,Special Mutton,Fish Cakes,Fragrant,Dough Stick With Fennel,8.04
+93,Tomato Soup Base,Special Mutton,Fish Cakes,Spicy,Deep-Fried Crispy Pork,8.37
+94,Tomato Soup Base,Special Mutton,Fish Cakes,Spicy,Dough Stick With Fennel,3.12
+95,Tomato Soup Base,Special Mutton,Fish Cakes,Seafood,Deep-Fried Crispy Pork,9.76
+96,Tomato Soup Base,Special Mutton,Fish Cakes,Seafood,Dough Stick With Fennel,7.99
+97,Classic Spicy Soup Base,Tofu Pudding,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,7.09
+98,Classic Spicy Soup Base,Tofu Pudding,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,5.1
+99,Classic Spicy Soup Base,Tofu Pudding,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,7.69
+100,Classic Spicy Soup Base,Tofu Pudding,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,5.15
+101,Classic Spicy Soup Base,Tofu Pudding,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,7.27
+102,Classic Spicy Soup Base,Tofu Pudding,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,4.78
+103,Classic Spicy Soup Base,Tofu Pudding,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,3.99
+104,Classic Spicy Soup Base,Tofu Pudding,Crab Sticks,Fragrant,Dough Stick With Fennel,9.62
+105,Classic Spicy Soup Base,Tofu Pudding,Crab Sticks,Spicy,Deep-Fried Crispy Pork,3.27
+106,Classic Spicy Soup Base,Tofu Pudding,Crab Sticks,Spicy,Dough Stick With Fennel,6.19
+107,Classic Spicy Soup Base,Tofu Pudding,Crab Sticks,Seafood,Deep-Fried Crispy Pork,7.3
+108,Classic Spicy Soup Base,Tofu Pudding,Crab Sticks,Seafood,Dough Stick With Fennel,4.17
+109,Classic Spicy Soup Base,Tofu Pudding,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,8.29
+110,Classic Spicy Soup Base,Tofu Pudding,Lobster Tails,Fragrant,Dough Stick With Fennel,9.58
+111,Classic Spicy Soup Base,Tofu Pudding,Lobster Tails,Spicy,Deep-Fried Crispy Pork,3.31
+112,Classic Spicy Soup Base,Tofu Pudding,Lobster Tails,Spicy,Dough Stick With Fennel,6.08
+113,Classic Spicy Soup Base,Tofu Pudding,Lobster Tails,Seafood,Deep-Fried Crispy Pork,7.05
+114,Classic Spicy Soup Base,Tofu Pudding,Lobster Tails,Seafood,Dough Stick With Fennel,5.45
+115,Classic Spicy Soup Base,Tofu Pudding,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,6.95
+116,Classic Spicy Soup Base,Tofu Pudding,Fish Cakes,Fragrant,Dough Stick With Fennel,6.98
+117,Classic Spicy Soup Base,Tofu Pudding,Fish Cakes,Spicy,Deep-Fried Crispy Pork,7.54
+118,Classic Spicy Soup Base,Tofu Pudding,Fish Cakes,Spicy,Dough Stick With Fennel,7.44
+119,Classic Spicy Soup Base,Tofu Pudding,Fish Cakes,Seafood,Deep-Fried Crispy Pork,5.89
+120,Classic Spicy Soup Base,Tofu Pudding,Fish Cakes,Seafood,Dough Stick With Fennel,5.58
+121,Classic Spicy Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,5.14
+122,Classic Spicy Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,6.06
+123,Classic Spicy Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,6.85
+124,Classic Spicy Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,6.69
+125,Classic Spicy Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,6.82
+126,Classic Spicy Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,6.62
+127,Classic Spicy Soup Base,Spicy Marinated Beef,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,6.36
+128,Classic Spicy Soup Base,Spicy Marinated Beef,Crab Sticks,Fragrant,Dough Stick With Fennel,6.17
+129,Classic Spicy Soup Base,Spicy Marinated Beef,Crab Sticks,Spicy,Deep-Fried Crispy Pork,6.74
+130,Classic Spicy Soup Base,Spicy Marinated Beef,Crab Sticks,Spicy,Dough Stick With Fennel,9.4
+131,Classic Spicy Soup Base,Spicy Marinated Beef,Crab Sticks,Seafood,Deep-Fried Crispy Pork,7.94
+132,Classic Spicy Soup Base,Spicy Marinated Beef,Crab Sticks,Seafood,Dough Stick With Fennel,7.41
+133,Classic Spicy Soup Base,Spicy Marinated Beef,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,6.31
+134,Classic Spicy Soup Base,Spicy Marinated Beef,Lobster Tails,Fragrant,Dough Stick With Fennel,7.52
+135,Classic Spicy Soup Base,Spicy Marinated Beef,Lobster Tails,Spicy,Deep-Fried Crispy Pork,5.07
+136,Classic Spicy Soup Base,Spicy Marinated Beef,Lobster Tails,Spicy,Dough Stick With Fennel,9.83
+137,Classic Spicy Soup Base,Spicy Marinated Beef,Lobster Tails,Seafood,Deep-Fried Crispy Pork,5.34
+138,Classic Spicy Soup Base,Spicy Marinated Beef,Lobster Tails,Seafood,Dough Stick With Fennel,6.32
+139,Classic Spicy Soup Base,Spicy Marinated Beef,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,6.64
+140,Classic Spicy Soup Base,Spicy Marinated Beef,Fish Cakes,Fragrant,Dough Stick With Fennel,6.51
+141,Classic Spicy Soup Base,Spicy Marinated Beef,Fish Cakes,Spicy,Deep-Fried Crispy Pork,9.3
+142,Classic Spicy Soup Base,Spicy Marinated Beef,Fish Cakes,Spicy,Dough Stick With Fennel,8.3
+143,Classic Spicy Soup Base,Spicy Marinated Beef,Fish Cakes,Seafood,Deep-Fried Crispy Pork,6.91
+144,Classic Spicy Soup Base,Spicy Marinated Beef,Fish Cakes,Seafood,Dough Stick With Fennel,8.18
+145,Classic Spicy Soup Base,Beef Tripe,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,6.9
+146,Classic Spicy Soup Base,Beef Tripe,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,7.38
+147,Classic Spicy Soup Base,Beef Tripe,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,5.96
+148,Classic Spicy Soup Base,Beef Tripe,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,7.25
+149,Classic Spicy Soup Base,Beef Tripe,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,8.24
+150,Classic Spicy Soup Base,Beef Tripe,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,4.25
+151,Classic Spicy Soup Base,Beef Tripe,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,7.71
+152,Classic Spicy Soup Base,Beef Tripe,Crab Sticks,Fragrant,Dough Stick With Fennel,7.52
+153,Classic Spicy Soup Base,Beef Tripe,Crab Sticks,Spicy,Deep-Fried Crispy Pork,6.01
+154,Classic Spicy Soup Base,Beef Tripe,Crab Sticks,Spicy,Dough Stick With Fennel,6.31
+155,Classic Spicy Soup Base,Beef Tripe,Crab Sticks,Seafood,Deep-Fried Crispy Pork,7.49
+156,Classic Spicy Soup Base,Beef Tripe,Crab Sticks,Seafood,Dough Stick With Fennel,7.16
+157,Classic Spicy Soup Base,Beef Tripe,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,6.93
+158,Classic Spicy Soup Base,Beef Tripe,Lobster Tails,Fragrant,Dough Stick With Fennel,7.76
+159,Classic Spicy Soup Base,Beef Tripe,Lobster Tails,Spicy,Deep-Fried Crispy Pork,3.6
+160,Classic Spicy Soup Base,Beef Tripe,Lobster Tails,Spicy,Dough Stick With Fennel,6.06
+161,Classic Spicy Soup Base,Beef Tripe,Lobster Tails,Seafood,Deep-Fried Crispy Pork,3.6
+162,Classic Spicy Soup Base,Beef Tripe,Lobster Tails,Seafood,Dough Stick With Fennel,7.97
+163,Classic Spicy Soup Base,Beef Tripe,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,3.37
+164,Classic Spicy Soup Base,Beef Tripe,Fish Cakes,Fragrant,Dough Stick With Fennel,6.91
+165,Classic Spicy Soup Base,Beef Tripe,Fish Cakes,Spicy,Deep-Fried Crispy Pork,4.98
+166,Classic Spicy Soup Base,Beef Tripe,Fish Cakes,Spicy,Dough Stick With Fennel,9.81
+167,Classic Spicy Soup Base,Beef Tripe,Fish Cakes,Seafood,Deep-Fried Crispy Pork,6.95
+168,Classic Spicy Soup Base,Beef Tripe,Fish Cakes,Seafood,Dough Stick With Fennel,3.25
+169,Classic Spicy Soup Base,Special Mutton,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,7.86
+170,Classic Spicy Soup Base,Special Mutton,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,9.86
+171,Classic Spicy Soup Base,Special Mutton,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,5.39
+172,Classic Spicy Soup Base,Special Mutton,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,6.56
+173,Classic Spicy Soup Base,Special Mutton,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,7.97
+174,Classic Spicy Soup Base,Special Mutton,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,6.81
+175,Classic Spicy Soup Base,Special Mutton,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,7.64
+176,Classic Spicy Soup Base,Special Mutton,Crab Sticks,Fragrant,Dough Stick With Fennel,5.01
+177,Classic Spicy Soup Base,Special Mutton,Crab Sticks,Spicy,Deep-Fried Crispy Pork,7.19
+178,Classic Spicy Soup Base,Special Mutton,Crab Sticks,Spicy,Dough Stick With Fennel,6.88
+179,Classic Spicy Soup Base,Special Mutton,Crab Sticks,Seafood,Deep-Fried Crispy Pork,9.14
+180,Classic Spicy Soup Base,Special Mutton,Crab Sticks,Seafood,Dough Stick With Fennel,7.66
+181,Classic Spicy Soup Base,Special Mutton,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,6.03
+182,Classic Spicy Soup Base,Special Mutton,Lobster Tails,Fragrant,Dough Stick With Fennel,6.19
+183,Classic Spicy Soup Base,Special Mutton,Lobster Tails,Spicy,Deep-Fried Crispy Pork,7.41
+184,Classic Spicy Soup Base,Special Mutton,Lobster Tails,Spicy,Dough Stick With Fennel,7.15
+185,Classic Spicy Soup Base,Special Mutton,Lobster Tails,Seafood,Deep-Fried Crispy Pork,7.9
+186,Classic Spicy Soup Base,Special Mutton,Lobster Tails,Seafood,Dough Stick With Fennel,9.62
+187,Classic Spicy Soup Base,Special Mutton,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,6.11
+188,Classic Spicy Soup Base,Special Mutton,Fish Cakes,Fragrant,Dough Stick With Fennel,7.64
+189,Classic Spicy Soup Base,Special Mutton,Fish Cakes,Spicy,Deep-Fried Crispy Pork,7.55
+190,Classic Spicy Soup Base,Special Mutton,Fish Cakes,Spicy,Dough Stick With Fennel,4.73
+191,Classic Spicy Soup Base,Special Mutton,Fish Cakes,Seafood,Deep-Fried Crispy Pork,6.45
+192,Classic Spicy Soup Base,Special Mutton,Fish Cakes,Seafood,Dough Stick With Fennel,9.65
+193,Mushroom Soup Base,Tofu Pudding,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,8.01
+194,Mushroom Soup Base,Tofu Pudding,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,6.59
+195,Mushroom Soup Base,Tofu Pudding,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,9.63
+196,Mushroom Soup Base,Tofu Pudding,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,8.37
+197,Mushroom Soup Base,Tofu Pudding,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,7.52
+198,Mushroom Soup Base,Tofu Pudding,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,8.56
+199,Mushroom Soup Base,Tofu Pudding,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,4.57
+200,Mushroom Soup Base,Tofu Pudding,Crab Sticks,Fragrant,Dough Stick With Fennel,6.43
+201,Mushroom Soup Base,Tofu Pudding,Crab Sticks,Spicy,Deep-Fried Crispy Pork,7.64
+202,Mushroom Soup Base,Tofu Pudding,Crab Sticks,Spicy,Dough Stick With Fennel,4.43
+203,Mushroom Soup Base,Tofu Pudding,Crab Sticks,Seafood,Deep-Fried Crispy Pork,6.32
+204,Mushroom Soup Base,Tofu Pudding,Crab Sticks,Seafood,Dough Stick With Fennel,5.72
+205,Mushroom Soup Base,Tofu Pudding,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,8.88
+206,Mushroom Soup Base,Tofu Pudding,Lobster Tails,Fragrant,Dough Stick With Fennel,5.38
+207,Mushroom Soup Base,Tofu Pudding,Lobster Tails,Spicy,Deep-Fried Crispy Pork,4.12
+208,Mushroom Soup Base,Tofu Pudding,Lobster Tails,Spicy,Dough Stick With Fennel,6.4
+209,Mushroom Soup Base,Tofu Pudding,Lobster Tails,Seafood,Deep-Fried Crispy Pork,6.69
+210,Mushroom Soup Base,Tofu Pudding,Lobster Tails,Seafood,Dough Stick With Fennel,8.24
+211,Mushroom Soup Base,Tofu Pudding,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,5.81
+212,Mushroom Soup Base,Tofu Pudding,Fish Cakes,Fragrant,Dough Stick With Fennel,6.17
+213,Mushroom Soup Base,Tofu Pudding,Fish Cakes,Spicy,Deep-Fried Crispy Pork,7.07
+214,Mushroom Soup Base,Tofu Pudding,Fish Cakes,Spicy,Dough Stick With Fennel,7.22
+215,Mushroom Soup Base,Tofu Pudding,Fish Cakes,Seafood,Deep-Fried Crispy Pork,7.55
+216,Mushroom Soup Base,Tofu Pudding,Fish Cakes,Seafood,Dough Stick With Fennel,6.26
+217,Mushroom Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,8.68
+218,Mushroom Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,8.42
+219,Mushroom Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,7.74
+220,Mushroom Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,4.58
+221,Mushroom Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,9.39
+222,Mushroom Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,10.16
+223,Mushroom Soup Base,Spicy Marinated Beef,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,8.62
+224,Mushroom Soup Base,Spicy Marinated Beef,Crab Sticks,Fragrant,Dough Stick With Fennel,9.96
+225,Mushroom Soup Base,Spicy Marinated Beef,Crab Sticks,Spicy,Deep-Fried Crispy Pork,6.01
+226,Mushroom Soup Base,Spicy Marinated Beef,Crab Sticks,Spicy,Dough Stick With Fennel,4.76
+227,Mushroom Soup Base,Spicy Marinated Beef,Crab Sticks,Seafood,Deep-Fried Crispy Pork,4.65
+228,Mushroom Soup Base,Spicy Marinated Beef,Crab Sticks,Seafood,Dough Stick With Fennel,5.57
+229,Mushroom Soup Base,Spicy Marinated Beef,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,7.74
+230,Mushroom Soup Base,Spicy Marinated Beef,Lobster Tails,Fragrant,Dough Stick With Fennel,6.47
+231,Mushroom Soup Base,Spicy Marinated Beef,Lobster Tails,Spicy,Deep-Fried Crispy Pork,8.24
+232,Mushroom Soup Base,Spicy Marinated Beef,Lobster Tails,Spicy,Dough Stick With Fennel,8.15
+233,Mushroom Soup Base,Spicy Marinated Beef,Lobster Tails,Seafood,Deep-Fried Crispy Pork,6.9
+234,Mushroom Soup Base,Spicy Marinated Beef,Lobster Tails,Seafood,Dough Stick With Fennel,8.32
+235,Mushroom Soup Base,Spicy Marinated Beef,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,4.6
+236,Mushroom Soup Base,Spicy Marinated Beef,Fish Cakes,Fragrant,Dough Stick With Fennel,7.18
+237,Mushroom Soup Base,Spicy Marinated Beef,Fish Cakes,Spicy,Deep-Fried Crispy Pork,8.9
+238,Mushroom Soup Base,Spicy Marinated Beef,Fish Cakes,Spicy,Dough Stick With Fennel,3.58
+239,Mushroom Soup Base,Spicy Marinated Beef,Fish Cakes,Seafood,Deep-Fried Crispy Pork,6.92
+240,Mushroom Soup Base,Spicy Marinated Beef,Fish Cakes,Seafood,Dough Stick With Fennel,6.06
+241,Mushroom Soup Base,Beef Tripe,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,9.72
+242,Mushroom Soup Base,Beef Tripe,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,4.98
+243,Mushroom Soup Base,Beef Tripe,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,5.64
+244,Mushroom Soup Base,Beef Tripe,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,7.66
+245,Mushroom Soup Base,Beef Tripe,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,7.27
+246,Mushroom Soup Base,Beef Tripe,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,6.47
+247,Mushroom Soup Base,Beef Tripe,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,5.68
+248,Mushroom Soup Base,Beef Tripe,Crab Sticks,Fragrant,Dough Stick With Fennel,4.3
+249,Mushroom Soup Base,Beef Tripe,Crab Sticks,Spicy,Deep-Fried Crispy Pork,6.12
+250,Mushroom Soup Base,Beef Tripe,Crab Sticks,Spicy,Dough Stick With Fennel,6.64
+251,Mushroom Soup Base,Beef Tripe,Crab Sticks,Seafood,Deep-Fried Crispy Pork,6.03
+252,Mushroom Soup Base,Beef Tripe,Crab Sticks,Seafood,Dough Stick With Fennel,7.77
+253,Mushroom Soup Base,Beef Tripe,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,6.18
+254,Mushroom Soup Base,Beef Tripe,Lobster Tails,Fragrant,Dough Stick With Fennel,7.87
+255,Mushroom Soup Base,Beef Tripe,Lobster Tails,Spicy,Deep-Fried Crispy Pork,6.88
+256,Mushroom Soup Base,Beef Tripe,Lobster Tails,Spicy,Dough Stick With Fennel,8.43
+257,Mushroom Soup Base,Beef Tripe,Lobster Tails,Seafood,Deep-Fried Crispy Pork,4.97
+258,Mushroom Soup Base,Beef Tripe,Lobster Tails,Seafood,Dough Stick With Fennel,4.74
+259,Mushroom Soup Base,Beef Tripe,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,6.59
+260,Mushroom Soup Base,Beef Tripe,Fish Cakes,Fragrant,Dough Stick With Fennel,8.92
+261,Mushroom Soup Base,Beef Tripe,Fish Cakes,Spicy,Deep-Fried Crispy Pork,5.4
+262,Mushroom Soup Base,Beef Tripe,Fish Cakes,Spicy,Dough Stick With Fennel,3.54
+263,Mushroom Soup Base,Beef Tripe,Fish Cakes,Seafood,Deep-Fried Crispy Pork,6.46
+264,Mushroom Soup Base,Beef Tripe,Fish Cakes,Seafood,Dough Stick With Fennel,8.28
+265,Mushroom Soup Base,Special Mutton,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,4.89
+266,Mushroom Soup Base,Special Mutton,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,9.54
+267,Mushroom Soup Base,Special Mutton,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,5.13
+268,Mushroom Soup Base,Special Mutton,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,8.24
+269,Mushroom Soup Base,Special Mutton,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,4.91
+270,Mushroom Soup Base,Special Mutton,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,9.77
+271,Mushroom Soup Base,Special Mutton,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,8.34
+272,Mushroom Soup Base,Special Mutton,Crab Sticks,Fragrant,Dough Stick With Fennel,4.78
+273,Mushroom Soup Base,Special Mutton,Crab Sticks,Spicy,Deep-Fried Crispy Pork,6.14
+274,Mushroom Soup Base,Special Mutton,Crab Sticks,Spicy,Dough Stick With Fennel,7.1
+275,Mushroom Soup Base,Special Mutton,Crab Sticks,Seafood,Deep-Fried Crispy Pork,7.19
+276,Mushroom Soup Base,Special Mutton,Crab Sticks,Seafood,Dough Stick With Fennel,5.99
+277,Mushroom Soup Base,Special Mutton,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,3.79
+278,Mushroom Soup Base,Special Mutton,Lobster Tails,Fragrant,Dough Stick With Fennel,6.12
+279,Mushroom Soup Base,Special Mutton,Lobster Tails,Spicy,Deep-Fried Crispy Pork,8.39
+280,Mushroom Soup Base,Special Mutton,Lobster Tails,Spicy,Dough Stick With Fennel,5.09
+281,Mushroom Soup Base,Special Mutton,Lobster Tails,Seafood,Deep-Fried Crispy Pork,7.07
+282,Mushroom Soup Base,Special Mutton,Lobster Tails,Seafood,Dough Stick With Fennel,7.19
+283,Mushroom Soup Base,Special Mutton,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,7.94
+284,Mushroom Soup Base,Special Mutton,Fish Cakes,Fragrant,Dough Stick With Fennel,7.62
+285,Mushroom Soup Base,Special Mutton,Fish Cakes,Spicy,Deep-Fried Crispy Pork,6.81
+286,Mushroom Soup Base,Special Mutton,Fish Cakes,Spicy,Dough Stick With Fennel,4.52
+287,Mushroom Soup Base,Special Mutton,Fish Cakes,Seafood,Deep-Fried Crispy Pork,8.12
+288,Mushroom Soup Base,Special Mutton,Fish Cakes,Seafood,Dough Stick With Fennel,7.2
+289,Three Delicacies Soup Base,Tofu Pudding,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,5.25
+290,Three Delicacies Soup Base,Tofu Pudding,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,4.34
+291,Three Delicacies Soup Base,Tofu Pudding,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,8.88
+292,Three Delicacies Soup Base,Tofu Pudding,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,6.62
+293,Three Delicacies Soup Base,Tofu Pudding,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,5.42
+294,Three Delicacies Soup Base,Tofu Pudding,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,3.24
+295,Three Delicacies Soup Base,Tofu Pudding,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,7.8
+296,Three Delicacies Soup Base,Tofu Pudding,Crab Sticks,Fragrant,Dough Stick With Fennel,9.36
+297,Three Delicacies Soup Base,Tofu Pudding,Crab Sticks,Spicy,Deep-Fried Crispy Pork,5.57
+298,Three Delicacies Soup Base,Tofu Pudding,Crab Sticks,Spicy,Dough Stick With Fennel,3.96
+299,Three Delicacies Soup Base,Tofu Pudding,Crab Sticks,Seafood,Deep-Fried Crispy Pork,7.91
+300,Three Delicacies Soup Base,Tofu Pudding,Crab Sticks,Seafood,Dough Stick With Fennel,8.44
+301,Three Delicacies Soup Base,Tofu Pudding,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,5.93
+302,Three Delicacies Soup Base,Tofu Pudding,Lobster Tails,Fragrant,Dough Stick With Fennel,7.66
+303,Three Delicacies Soup Base,Tofu Pudding,Lobster Tails,Spicy,Deep-Fried Crispy Pork,9.59
+304,Three Delicacies Soup Base,Tofu Pudding,Lobster Tails,Spicy,Dough Stick With Fennel,3.99
+305,Three Delicacies Soup Base,Tofu Pudding,Lobster Tails,Seafood,Deep-Fried Crispy Pork,6.24
+306,Three Delicacies Soup Base,Tofu Pudding,Lobster Tails,Seafood,Dough Stick With Fennel,4.98
+307,Three Delicacies Soup Base,Tofu Pudding,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,5.33
+308,Three Delicacies Soup Base,Tofu Pudding,Fish Cakes,Fragrant,Dough Stick With Fennel,5.47
+309,Three Delicacies Soup Base,Tofu Pudding,Fish Cakes,Spicy,Deep-Fried Crispy Pork,3.34
+310,Three Delicacies Soup Base,Tofu Pudding,Fish Cakes,Spicy,Dough Stick With Fennel,6.68
+311,Three Delicacies Soup Base,Tofu Pudding,Fish Cakes,Seafood,Deep-Fried Crispy Pork,7.09
+312,Three Delicacies Soup Base,Tofu Pudding,Fish Cakes,Seafood,Dough Stick With Fennel,8.84
+313,Three Delicacies Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,4.59
+314,Three Delicacies Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,6.93
+315,Three Delicacies Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,3.49
+316,Three Delicacies Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,6.83
+317,Three Delicacies Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,9.85
+318,Three Delicacies Soup Base,Spicy Marinated Beef,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,6.94
+319,Three Delicacies Soup Base,Spicy Marinated Beef,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,5.84
+320,Three Delicacies Soup Base,Spicy Marinated Beef,Crab Sticks,Fragrant,Dough Stick With Fennel,7.82
+321,Three Delicacies Soup Base,Spicy Marinated Beef,Crab Sticks,Spicy,Deep-Fried Crispy Pork,6.18
+322,Three Delicacies Soup Base,Spicy Marinated Beef,Crab Sticks,Spicy,Dough Stick With Fennel,5.52
+323,Three Delicacies Soup Base,Spicy Marinated Beef,Crab Sticks,Seafood,Deep-Fried Crispy Pork,6.47
+324,Three Delicacies Soup Base,Spicy Marinated Beef,Crab Sticks,Seafood,Dough Stick With Fennel,5.32
+325,Three Delicacies Soup Base,Spicy Marinated Beef,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,5.55
+326,Three Delicacies Soup Base,Spicy Marinated Beef,Lobster Tails,Fragrant,Dough Stick With Fennel,8.58
+327,Three Delicacies Soup Base,Spicy Marinated Beef,Lobster Tails,Spicy,Deep-Fried Crispy Pork,8.34
+328,Three Delicacies Soup Base,Spicy Marinated Beef,Lobster Tails,Spicy,Dough Stick With Fennel,7.08
+329,Three Delicacies Soup Base,Spicy Marinated Beef,Lobster Tails,Seafood,Deep-Fried Crispy Pork,5.21
+330,Three Delicacies Soup Base,Spicy Marinated Beef,Lobster Tails,Seafood,Dough Stick With Fennel,6.26
+331,Three Delicacies Soup Base,Spicy Marinated Beef,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,6.27
+332,Three Delicacies Soup Base,Spicy Marinated Beef,Fish Cakes,Fragrant,Dough Stick With Fennel,9.25
+333,Three Delicacies Soup Base,Spicy Marinated Beef,Fish Cakes,Spicy,Deep-Fried Crispy Pork,6.53
+334,Three Delicacies Soup Base,Spicy Marinated Beef,Fish Cakes,Spicy,Dough Stick With Fennel,5.67
+335,Three Delicacies Soup Base,Spicy Marinated Beef,Fish Cakes,Seafood,Deep-Fried Crispy Pork,7.71
+336,Three Delicacies Soup Base,Spicy Marinated Beef,Fish Cakes,Seafood,Dough Stick With Fennel,9.31
+337,Three Delicacies Soup Base,Beef Tripe,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,7.65
+338,Three Delicacies Soup Base,Beef Tripe,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,5.49
+339,Three Delicacies Soup Base,Beef Tripe,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,5.83
+340,Three Delicacies Soup Base,Beef Tripe,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,6.96
+341,Three Delicacies Soup Base,Beef Tripe,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,8.3
+342,Three Delicacies Soup Base,Beef Tripe,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,4.9
+343,Three Delicacies Soup Base,Beef Tripe,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,3.94
+344,Three Delicacies Soup Base,Beef Tripe,Crab Sticks,Fragrant,Dough Stick With Fennel,4.81
+345,Three Delicacies Soup Base,Beef Tripe,Crab Sticks,Spicy,Deep-Fried Crispy Pork,3.33
+346,Three Delicacies Soup Base,Beef Tripe,Crab Sticks,Spicy,Dough Stick With Fennel,7.46
+347,Three Delicacies Soup Base,Beef Tripe,Crab Sticks,Seafood,Deep-Fried Crispy Pork,6.93
+348,Three Delicacies Soup Base,Beef Tripe,Crab Sticks,Seafood,Dough Stick With Fennel,7.81
+349,Three Delicacies Soup Base,Beef Tripe,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,3.98
+350,Three Delicacies Soup Base,Beef Tripe,Lobster Tails,Fragrant,Dough Stick With Fennel,8.62
+351,Three Delicacies Soup Base,Beef Tripe,Lobster Tails,Spicy,Deep-Fried Crispy Pork,3.8
+352,Three Delicacies Soup Base,Beef Tripe,Lobster Tails,Spicy,Dough Stick With Fennel,7.44
+353,Three Delicacies Soup Base,Beef Tripe,Lobster Tails,Seafood,Deep-Fried Crispy Pork,6.58
+354,Three Delicacies Soup Base,Beef Tripe,Lobster Tails,Seafood,Dough Stick With Fennel,3.2
+355,Three Delicacies Soup Base,Beef Tripe,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,7.24
+356,Three Delicacies Soup Base,Beef Tripe,Fish Cakes,Fragrant,Dough Stick With Fennel,7.66
+357,Three Delicacies Soup Base,Beef Tripe,Fish Cakes,Spicy,Deep-Fried Crispy Pork,9.0
+358,Three Delicacies Soup Base,Beef Tripe,Fish Cakes,Spicy,Dough Stick With Fennel,8.4
+359,Three Delicacies Soup Base,Beef Tripe,Fish Cakes,Seafood,Deep-Fried Crispy Pork,7.78
+360,Three Delicacies Soup Base,Beef Tripe,Fish Cakes,Seafood,Dough Stick With Fennel,4.06
+361,Three Delicacies Soup Base,Special Mutton,Smashed Shrimp Paste,Fragrant,Deep-Fried Crispy Pork,8.1
+362,Three Delicacies Soup Base,Special Mutton,Smashed Shrimp Paste,Fragrant,Dough Stick With Fennel,8.81
+363,Three Delicacies Soup Base,Special Mutton,Smashed Shrimp Paste,Spicy,Deep-Fried Crispy Pork,4.28
+364,Three Delicacies Soup Base,Special Mutton,Smashed Shrimp Paste,Spicy,Dough Stick With Fennel,7.78
+365,Three Delicacies Soup Base,Special Mutton,Smashed Shrimp Paste,Seafood,Deep-Fried Crispy Pork,6.57
+366,Three Delicacies Soup Base,Special Mutton,Smashed Shrimp Paste,Seafood,Dough Stick With Fennel,8.43
+367,Three Delicacies Soup Base,Special Mutton,Crab Sticks,Fragrant,Deep-Fried Crispy Pork,6.58
+368,Three Delicacies Soup Base,Special Mutton,Crab Sticks,Fragrant,Dough Stick With Fennel,8.4
+369,Three Delicacies Soup Base,Special Mutton,Crab Sticks,Spicy,Deep-Fried Crispy Pork,6.33
+370,Three Delicacies Soup Base,Special Mutton,Crab Sticks,Spicy,Dough Stick With Fennel,5.24
+371,Three Delicacies Soup Base,Special Mutton,Crab Sticks,Seafood,Deep-Fried Crispy Pork,6.79
+372,Three Delicacies Soup Base,Special Mutton,Crab Sticks,Seafood,Dough Stick With Fennel,6.56
+373,Three Delicacies Soup Base,Special Mutton,Lobster Tails,Fragrant,Deep-Fried Crispy Pork,8.88
+374,Three Delicacies Soup Base,Special Mutton,Lobster Tails,Fragrant,Dough Stick With Fennel,6.06
+375,Three Delicacies Soup Base,Special Mutton,Lobster Tails,Spicy,Deep-Fried Crispy Pork,8.46
+376,Three Delicacies Soup Base,Special Mutton,Lobster Tails,Spicy,Dough Stick With Fennel,9.41
+377,Three Delicacies Soup Base,Special Mutton,Lobster Tails,Seafood,Deep-Fried Crispy Pork,8.11
+378,Three Delicacies Soup Base,Special Mutton,Lobster Tails,Seafood,Dough Stick With Fennel,6.01
+379,Three Delicacies Soup Base,Special Mutton,Fish Cakes,Fragrant,Deep-Fried Crispy Pork,6.8
+380,Three Delicacies Soup Base,Special Mutton,Fish Cakes,Fragrant,Dough Stick With Fennel,4.66
+381,Three Delicacies Soup Base,Special Mutton,Fish Cakes,Spicy,Deep-Fried Crispy Pork,6.1
+382,Three Delicacies Soup Base,Special Mutton,Fish Cakes,Spicy,Dough Stick With Fennel,6.74
+383,Three Delicacies Soup Base,Special Mutton,Fish Cakes,Seafood,Deep-Fried Crispy Pork,8.47
+384,Three Delicacies Soup Base,Special Mutton,Fish Cakes,Seafood,Dough Stick With Fennel,7.92
